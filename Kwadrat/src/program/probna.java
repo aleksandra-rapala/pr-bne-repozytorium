@@ -1,2 +1,2 @@
-public class probna {
+public class probddna {
 }
